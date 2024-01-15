@@ -5,7 +5,7 @@ Minimax is a backtracking algorithm that is used in decision making and game the
 The two players are called maximizer and minimizer. The maximizer tries to get the highest score possible while the minimizer tries to do the opposite and get the lowest score possible.
 
 <p align="center">
-  <img src="./sample.png" alt="Sample Screenshot" width="500">
+  <img src="./sample.png" alt="Sample Screenshot" width="400">
 </p>
 
 ## Methods
